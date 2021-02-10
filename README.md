@@ -5,4 +5,4 @@
 
 ## Samples from Gallery
 
-<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/arnold_layne_songsim.png?raw=true" />
+<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/arnold_layne_songsim.png?raw=true" width = "350" height = "350" />
