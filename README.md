@@ -5,4 +5,8 @@
 
 ## Samples from Gallery
 
-<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/arnold_layne_songsim.png?raw=true" width = "350" height = "350" />
+<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/arnold_layne_songsim.png?raw=true" width = "450" height = "450" />
+<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/eleanor_rigby_songsim.png?raw=true" width = "450" height = "450" />
+<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/she_loves_you_songsim.png?raw=true" width = "450" height = "450" />
+<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/never_gonna_give_you_up_songsim.png?raw=true" width = "450" height = "450" />
+<img src = "https://github.com/bayhippo/SongSim-in-Python/blob/main/SongSim_gallery/legend_of_a_mind_songsim.png?raw=true" width = "450" height = "450" />
